@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="craftbukkit-1.5.2-R0.1.jar"/>
+	<classpathentry kind="lib" path="mcore.jar"/>
+	<classpathentry kind="lib" path="Towny.jar"/>
+	<classpathentry kind="lib" path="WorldGuard.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="res"/>
+	<classpathentry kind="lib" path="res/jdom-2.0.5/jdom-2.0.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,33 @@
+<?xml version = "1.0" ?>
+
+<config>
+
+	<configuration>
+		<modPack>ftb_ultimate</modPack>
+		<protectionsPlugin>towny</protectionsPlugin>
+		<enableWorldguard>true</enableWorldguard>
+		<debugLevel>0</debugLevel>
+		<targetBlockDistance>150</targetBlockDistance>
+	</configuration>
+
+	<allowedToTouch>
+		<item id = "54" />
+	</allowedToTouch>
+
+	
+	
+	<restrictedItems>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>dirt</name>
+			<id>2</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>false</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+	</restrictedItems>
+
+</config>
