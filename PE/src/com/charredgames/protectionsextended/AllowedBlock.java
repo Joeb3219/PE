@@ -10,6 +10,7 @@ public class AllowedBlock {
 		this.modPack = modPack;
 		this.itemId = itemId;
 		this.itemData = itemData;
+		PE.allowedTouches.add(this);
 	}
 	
 	public String getModPack(){

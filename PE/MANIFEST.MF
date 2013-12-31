@@ -1,0 +1,1 @@
+Class-Path: res/jdom-2.0.5/jdom-2.0.5.jar; ./res/jdom-2.0.5/jdom-2.0.5.jar

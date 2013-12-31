@@ -1,20 +1,6 @@
 name: ProtectionsExtended
 main: com.charredgames.protectionsextended.PE
-version: 0.0.1
+version: 0.1.0
 description: Enhances grief-protection plugins by disabling the use of specific tools in protected regions. Also fixes many bugs, dupes, and other annoyances.
 author: Joe Boyle
 website: http://www.charredgames.com
-
-permissions:
-  pe.gravity.allow:
-    description: Allows player to have a gravity gun.
-    default: op
-  pe.watchdebug:
-    description: Allows player to use the watchdebug command
-    default: op
-    
-commands:
-   watchdebug:
-      description: Watch PE output for players who infringe on protections.
-      permission: pe.wacthdebug
-      permission-message: You don't have permission

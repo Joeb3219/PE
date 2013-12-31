@@ -11,21 +11,319 @@
 	</configuration>
 
 	<allowedToTouch>
-		<item id = "54" />
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<id>3</id>
+		</item>
 	</allowedToTouch>
 
-	
-	
 	<restrictedItems>
 		<item>
 			<modPack>ftb_ultimate</modPack>
-			<name>dirt</name>
-			<id>2</id>
+			<name>Wrench</name>
+			<id>30183</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrench</name>
+			<id>30140</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrench</name>
+			<id>13436</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrench</name>
+			<id>4470</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrench</name>
+			<id>4062</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrench</name>
+			<id>6257</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Vajra</name>
+			<id>30477</id>
 			<scan>
 				<radius>0</radius>
 				<lineOfSight>false</lineOfSight>
 			</scan>
-			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "false"/>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wrath Igniter</name>
+			<id>9263</id>
+			<scan>
+				<radius>0</radius>
+				<lineOfSight>false</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Portal Gun</name>
+			<id>13457</id>
+			<scan>
+				<radius>2</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Portal Gun</name>
+			<id>13458</id>
+			<scan>
+				<radius>2</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Alumentum</name>
+			<id>25263:0</id>
+			<scan>
+				<radius>3</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Crumble Horn</name>
+			<id>27261</id>
+			<scan>
+				<radius>6</radius>
+				<lineOfSight>false</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>3</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Vibration Catalyst</name>
+			<id>4464</id>
+			<scan>
+				<radius>3</radius>
+				<lineOfSight>false</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Destruction Catalyst</name>
+			<id>27547</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>false</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Equal Trade</name>
+			<id>25283</id>
+			<scan>
+				<radius>3</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Excavation</name>
+			<id>25284</id>
+			<scan>
+				<radius>3</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Mining Laser</name>
+			<id>30208</id>
+			<scan>
+				<radius>8</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>CF Sprayer</name>
+			<id>30131</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Cooling</name>
+			<id>9261</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Apprentice</name>
+			<id>25256</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Adept</name>
+			<id>25257</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Thaumaturge</name>
+			<id>25258</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Fire</name>
+			<id>25259</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Lightning</name>
+			<id>25260</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Equal Trade</name>
+			<id>25283</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Excavation</name>
+			<id>25284</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Wand of Frost</name>
+			<id>25294</id>
+			<scan>
+				<radius>4</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "false" leftOnly = "false" rightOnly = "true"/>
+			<disableAfterSeconds>0</disableAfterSeconds>
+		</item>
+		<item>
+			<modPack>ftb_ultimate</modPack>
+			<name>Hunter's Handgun</name>
+			<id>27526</id>
+			<scan>
+				<radius>7</radius>
+				<lineOfSight>true</lineOfSight>
+			</scan>
+			<trigger leftOrRight = "true" leftOnly = "false" rightOnly = "false"/>
 			<disableAfterSeconds>0</disableAfterSeconds>
 		</item>
 	</restrictedItems>

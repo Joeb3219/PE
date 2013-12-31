@@ -33,6 +33,7 @@ public class RestrictedItem {
 		this.eventLength = eventLength;
 		this.lineOfSight = lineOfSight;
 		this.interactionType = interactionType;
+		PE.restrictedItems.add(this);
 	}
 	
 	public String getModPack(){
